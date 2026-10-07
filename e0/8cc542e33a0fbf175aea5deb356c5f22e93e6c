@@ -1,0 +1,19 @@
+packages/capture-kit/src/snapshot/scroll-edge-state.ts
+  s_954ec49acd4916::t_6b0f39872dbe81 306
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e08cc542e33a0fbf175aea5deb356c5f22e93e6c",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "unknown"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
