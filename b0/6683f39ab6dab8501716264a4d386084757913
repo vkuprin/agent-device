@@ -1,0 +1,21 @@
+packages/proxy/src/daemon-proxy.ts
+  s_954ec49acd4916::t_d837656c69192c 135-137,147-151
+src/cli/host/request-policy.ts
+  s_954ec49acd4916::t_473f721056b546 9,158-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b06683f39ab6dab8501716264a4d386084757913",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "unknown"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
