@@ -1,0 +1,19 @@
+src/cli/host/host-server.ts
+  s_954ec49acd4916::t_e0cd80309f23a8 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d546ed530774bc55298fa30147b2c8fe9414148b",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "unknown"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
