@@ -1,0 +1,19 @@
+scripts/mutation/run.ts
+  s_954ec49acd4916::t_22e39e5f82abef 526
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bfe1ea64f76bc707e15b0c32734b6a6d15250537",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "unknown"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
