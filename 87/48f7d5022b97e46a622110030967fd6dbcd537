@@ -1,0 +1,21 @@
+packages/provision-kit/package.json
+  s_954ec49acd4916::t_d9ecb311b1c04c 41-44
+scripts/layering/package-boundaries.test.ts
+  s_954ec49acd4916::t_20fc52a81e91cd 513
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8748f7d5022b97e46a622110030967fd6dbcd537",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
