@@ -1,0 +1,58 @@
+packages/provision-kit/src/github-actions-artifact-source.test.ts
+  s_954ec49acd4916::t_a38a20d6f78a9a 7-10,16-17,19,22,24-25,28-35,38-44,47-54,57-65,70-82,85,90,96-113,115-120,122-130,135-138,141-142,144-156
+packages/provision-kit/src/github-actions-artifact-source.ts
+  s_954ec49acd4916::t_3f0a2143603581 1-2,4-6,19-34,37,39-40,44-46,50,52,58-60,68-83,86-87,93-94,97,100-124,127,130,132-162,165,172,174-194,199-218,221-231,235-237,246
+  s_954ec49acd4916::t_0beadaf791bc40 238-245,247-254
+packages/command-registry/src/flag-definitions-target.ts
+  s_954ec49acd4916::t_208d6baad968de 395-396
+packages/provision-kit/src/install-source-config.ts
+  s_954ec49acd4916::t_7840cc66cf9790 87-88,114-123
+packages/provision-kit/src/install-source-download.ts
+  s_954ec49acd4916::t_33df20824863b0 40,56-60
+src/commands/management/install.ts
+  s_954ec49acd4916::t_f5aad73351ff19 47
+src/daemon-client/daemon-client-lifecycle.ts
+  s_954ec49acd4916::t_13132c55492f00 165,320-341
+src/daemon-client/daemon-client-metadata.ts
+  s_954ec49acd4916::t_c39ad2bbef05ba 24-25,54
+src/daemon-registration-owner.ts
+  s_954ec49acd4916::t_f3c26a6969b9ee 54
+src/daemon/__tests__/http-server-rpc-validation.test.ts
+  s_954ec49acd4916::t_66d1c646559cc1 268
+src/daemon/__tests__/install-source-resolution.test.ts
+  s_954ec49acd4916::t_4768bd72f91cc2 4,20,26,45-46,65,68-81,87-88,95
+src/daemon/handlers/session-app-source-deployment.ts
+  s_954ec49acd4916::t_d4d83d3600384c 19,56,60,75,82
+src/daemon/install-source-resolution.ts
+  s_954ec49acd4916::t_dacb72fd838ab6 4,6-11,15-20,24,28,51,57-59,61-62,77-95
+src/daemon/server/daemon-runtime.ts
+  s_954ec49acd4916::t_7581394d2b6b64 92,638
+src/daemon/server/http-server.ts
+  s_954ec49acd4916::t_129b1ad1b90b41 53
+website/docs/docs/client-api.md
+  s_954ec49acd4916::t_c97624c8c36631 469
+website/docs/docs/commands.md
+  s_954ec49acd4916::t_604dbab7521887 696
+website/docs/docs/remote-proxy.md
+  s_954ec49acd4916::t_3120f8a20a6a3c 246
+src/daemon-github-token.ts
+  s_954ec49acd4916::t_cc8e3fcf592343 1-29
+src/daemon/server/github-actions-artifact-params.ts
+  s_954ec49acd4916::t_2975ba62401483 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3306f68446e25419791b364713529da739ad7e1a",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
