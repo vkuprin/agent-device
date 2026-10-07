@@ -1,0 +1,66 @@
+packages/command-registry/src/flag-definitions-connection.ts
+  s_954ec49acd4916::t_324a49b62d40be 94-111
+packages/command-registry/src/registry.ts
+  s_954ec49acd4916::t_324a49b62d40be 1764-1773
+  s_954ec49acd4916::t_ba5721f681f7d7 1763
+src/commands/schema/cli-help-topics.test.ts
+  s_954ec49acd4916::t_2e5fa2f37c6802 450-458
+src/cli/commands/local-daemon-front-end.ts
+  s_954ec49acd4916::t_75fe807ada2fd1 1-76
+src/commands/schema/cli-help.ts
+  s_954ec49acd4916::t_b292e85eeee1e6 701
+  s_954ec49acd4916::t_1ce79fd356c804 697-700,702-721
+  s_954ec49acd4916::t_ca25b68bf14570 696
+website/docs/docs/remote-proxy.md
+  s_954ec49acd4916::t_2e5fa2f37c6802 233-245
+src/cli/commands/host.ts
+  s_954ec49acd4916::t_cb94bc2d6d30ca 1-94,98-109
+  s_954ec49acd4916::t_7c644abc488b52 95-97
+src/commands/schema/command-overrides.ts
+  s_954ec49acd4916::t_8fe392de900fcc 151
+  s_954ec49acd4916::t_1ce79fd356c804 147-150,152-155
+src/cli/commands/router.ts
+  s_954ec49acd4916::t_324a49b62d40be 19
+src/cli/commands/proxy.ts
+  s_954ec49acd4916::t_f6eea154524155 8-13,35,37,42,47,54
+packages/contracts/src/cli-flags.ts
+  s_954ec49acd4916::t_324a49b62d40be 46-47
+src/cli/host/service-credential.ts
+  s_954ec49acd4916::t_56e230b8fe5e9b 28
+  s_954ec49acd4916::t_66a11b514aa1e2 1-24,26-27,29-88,95,98,100,117-142
+  s_954ec49acd4916::t_2bc5e70cb33ef9 25,89-94,96-97,99,101-116
+src/cli/host/host-server.ts
+  s_954ec49acd4916::t_cb94bc2d6d30ca 1-28
+src/cli.ts
+  s_954ec49acd4916::t_324a49b62d40be 106,730,760
+src/cli/host/host-server.test.ts
+  s_954ec49acd4916::t_1e754ebc5d8e89 2-20,22-37,39-119,121-122,124-168
+  s_954ec49acd4916::t_29956f861904f6 120,123
+  s_954ec49acd4916::t_c23cb96b5705eb 1,21,38
+src/cli/host/service-credential.test.ts
+  s_954ec49acd4916::t_f9a8c825899619 1-76
+.fallowrc.json
+  s_954ec49acd4916::t_7c644abc488b52 224,233
+scripts/integration-progress-model.ts
+  s_954ec49acd4916::t_7c644abc488b52 332-333
+packages/command-registry/src/__tests__/device-claim-policy.test.ts
+  s_954ec49acd4916::t_b7edd7dd6764ce 64
+scripts/__tests__/help-conformance-topic-coverage.test.ts
+  s_954ec49acd4916::t_fe95a4da0b3b4f 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "19c4a07306c1fda0a2e5808a86257f4fb23e17bb",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
