@@ -1,0 +1,43 @@
+packages/provision-kit/src/github-actions-artifact-source.ts
+  s_954ec49acd4916::t_596bac9f59547a 1-119
+  s_954ec49acd4916::t_9aeac7ce6249a0 120-130
+packages/provision-kit/src/github-actions-artifact-source.test.ts
+  s_954ec49acd4916::t_a0df52cdf4d825 1-130
+  s_954ec49acd4916::t_57ab2e6da36519 131-143
+src/cli/host/host-front-end.test.ts
+  s_954ec49acd4916::t_e609282db6d4b5 217-239
+src/commands/schema/cli-help.ts
+  s_954ec49acd4916::t_0e436ad0d90e1d 727-734
+src/daemon/__tests__/http-server-rpc-validation.test.ts
+  s_954ec49acd4916::t_6255f6e711ee86 268
+src/daemon/__tests__/install-source-resolution.test.ts
+  s_954ec49acd4916::t_20e2646cd99f30 1,20,26,45-46,65-82,85-86,93
+src/daemon/handlers/session-app-source-deployment.ts
+  s_954ec49acd4916::t_3b3566641e68a3 56,60
+src/daemon/install-source-resolution.ts
+  s_954ec49acd4916::t_c4a79bfb53f80b 3-5,16-19,42-45,51,54-55
+website/docs/docs/client-api.md
+  s_954ec49acd4916::t_9bed38b92ee025 455,469
+website/docs/docs/commands.md
+  s_954ec49acd4916::t_04b919095853cb 696,701
+website/docs/docs/configuration.md
+  s_954ec49acd4916::t_ae6744dd9e0de5 102
+website/docs/docs/remote-proxy.md
+  s_954ec49acd4916::t_b5042a5370ca46 246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1ca22d58324c0a386881075fe5abf14c4060ea49",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
