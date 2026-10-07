@@ -1,0 +1,45 @@
+src/cli/host/host-server.test.ts
+  s_954ec49acd4916::t_500beb31fec024 15,41-43
+src/cli/host/service-credential.test.ts
+  s_954ec49acd4916::t_500beb31fec024 7,13-18,26,29,31,33-40,46-47,55,59,66,70,72-83,90,94,99-106,108-110
+  s_954ec49acd4916::t_75eb9e0dfcb2a5 71,107
+src/commands/schema/cli-help-command-usage.test.ts
+  s_954ec49acd4916::t_1a097bd847a043 184-185
+website/docs/docs/remote-proxy.md
+  s_954ec49acd4916::t_32d334713bc143 241,243
+src/cli/host/local-daemon.ts
+  s_954ec49acd4916::t_9e8aec07bf1f6a 2,4,62-67,70,74,91-96
+  s_954ec49acd4916::t_341b26340cfcd8 97
+src/cli/commands/host.ts
+  s_954ec49acd4916::t_54fdd6d6b4c803 2,5,10,12,31,37-39,54-61,66-71,73-81,86-88,94-105,117-119,121-136,157-169,176,178,181-182,186,190
+  s_954ec49acd4916::t_4548cc27ab4f5c 120
+src/commands/schema/cli-help-host.ts
+  s_954ec49acd4916::t_ab6fb3cf1ce51e 1-26,36-40
+  s_954ec49acd4916::t_32d334713bc143 41
+src/commands/schema/cli-help.ts
+  s_954ec49acd4916::t_ab6fb3cf1ce51e 27,698
+src/cli/host/service-credential.ts
+  s_954ec49acd4916::t_9e8aec07bf1f6a 96,104,174-176
+  s_954ec49acd4916::t_2cae26b256a11e 18,20-24,39-40,42,46-48,50-58,67-74,76,93-94,100,112-135,167,170-171,178,182
+  s_954ec49acd4916::t_9f07eadcd5cda1 75,177
+packages/command-registry/src/flag-definitions-connection.ts
+  s_954ec49acd4916::t_32d334713bc143 79,90
+src/cli/commands/host.test.ts
+  s_954ec49acd4916::t_3da60a3b84c284 18,23,29-36,38-45,47-50,52-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ed6c826d17586215496daa4b32781aa6e3113360",
+  "prompts": {},
+  "sessions": {
+    "s_954ec49acd4916": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1032225a-ad21-49b1-b676-fd40f5f88eed",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
